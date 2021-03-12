@@ -1,0 +1,5 @@
+a, địa chỉ của các char abc sắp xep theo thứ tự tăng dần
+b, sửa mảng char thành mảng int; 4
+c, sửa mảng int thành mảng double; 8
+d, địa chỉ in ra cách nhau gấp đôi lúc trước, mảng bị tràn
+

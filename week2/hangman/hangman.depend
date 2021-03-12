@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612276955 source:e:\hung\week2\hangman\hangman.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"chosseWord.h"
+
+1612277042 e:\hung\week2\hangman\chosseword.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1612276696 source:e:\hung\week2\hangman\chosseword.cpp
+	"chosseWord.h"
+

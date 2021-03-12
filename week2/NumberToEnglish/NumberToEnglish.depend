@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611850876 source:e:\hung\week2\numbertoenglish\numbertoenglish.cpp
+	<iostream>
+	<math.h>
+
